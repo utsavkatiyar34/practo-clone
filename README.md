@@ -7,10 +7,9 @@ Practo is one of India's leading healthcare consultation website. We cloned the 
 * JavaScript
 * JSON-server
 
-#Area of responsibilities
-* created the homepage.
-* created the login page.
-* created the sign-up page.
-* gave the final touches to the project.
+#Features
+* Login and Signup
+* Product page
+* Add to cart and payment option by using credit or debit card
 
 <img src="https://utsav-katiyar.netlify.app/static/media/Practo.a0212cd4.png"></img>
