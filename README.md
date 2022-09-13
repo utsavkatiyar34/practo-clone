@@ -12,4 +12,4 @@ Practo is one of India's leading healthcare consultation website. We cloned the 
 * Product page
 * Add to cart and payment option by using credit or debit card
 
-<img src="https://utsav-katiyar.netlify.app/static/media/Practo.a0212cd4.png"></img>
+<img height="300px" width="500px" src="https://utsav-katiyar.netlify.app/static/media/Practo.a0212cd4.png"></img>
